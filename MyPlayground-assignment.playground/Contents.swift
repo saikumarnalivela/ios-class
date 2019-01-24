@@ -26,5 +26,5 @@ var sum = 0
 for i in data{
     sum = sum + i
 }
-print("avaeage of all elemenst is :", sum / 100)
+print("avaeage of all elemenst is :", sum / 1000)
 
