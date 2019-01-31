@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4EAF7FB10485DF6109936E8CE7EDF541C8E54A1E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4EAF7FB10485DF6109936E8CE7EDF541C8E54A1E" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4656A2BC-6B88-43DF-AE7B-E3569F485E97",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4EAF7FB10485DF6109936E8CE7EDF541C8E54A1E" : "ios-class\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ios ",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios .xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/saikumarnalivela\/ios-class.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4EAF7FB10485DF6109936E8CE7EDF541C8E54A1E"
+    }
+  ]
+}
