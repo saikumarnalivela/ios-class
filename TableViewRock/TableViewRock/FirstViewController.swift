@@ -22,7 +22,7 @@ class FirstViewController: UIViewController,UITableViewDataSource,UITableViewDel
             return -1
         }
     }
-    var cities = ["paris","London","Warangal","Hyderabad","New York"]
+    var cities = ["paris","London","Arakansas","Hyderabad","New York"]
     
 
     override func viewDidLoad() {

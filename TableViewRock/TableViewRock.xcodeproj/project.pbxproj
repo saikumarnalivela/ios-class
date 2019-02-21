@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6511F7E3221F0183007D1DF5 /* placeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6511F7E2221F0183007D1DF5 /* placeTableViewController.swift */; };
 		65BFA4FC221C62BE008DCC0E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65BFA4FB221C62BE008DCC0E /* AppDelegate.swift */; };
 		65BFA4FE221C62BE008DCC0E /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65BFA4FD221C62BE008DCC0E /* FirstViewController.swift */; };
 		65BFA500221C62BE008DCC0E /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65BFA4FF221C62BE008DCC0E /* SecondViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6511F7E2221F0183007D1DF5 /* placeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = placeTableViewController.swift; sourceTree = "<group>"; };
 		65BFA4F8221C62BE008DCC0E /* TableViewRock.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewRock.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		65BFA4FB221C62BE008DCC0E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65BFA4FD221C62BE008DCC0E /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				65BFA504221C62BF008DCC0E /* Assets.xcassets */,
 				65BFA506221C62BF008DCC0E /* LaunchScreen.storyboard */,
 				65BFA509221C62BF008DCC0E /* Info.plist */,
+				6511F7E2221F0183007D1DF5 /* placeTableViewController.swift */,
 			);
 			path = TableViewRock;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				65BFA500221C62BE008DCC0E /* SecondViewController.swift in Sources */,
+				6511F7E3221F0183007D1DF5 /* placeTableViewController.swift in Sources */,
 				65BFA4FC221C62BE008DCC0E /* AppDelegate.swift in Sources */,
 				65BFA4FE221C62BE008DCC0E /* FirstViewController.swift in Sources */,
 			);
